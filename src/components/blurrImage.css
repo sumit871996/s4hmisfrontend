@@ -1,0 +1,3 @@
+.blurImg {
+    filter: blur(150px) saturate(2) hue-rotate(0deg);
+}
